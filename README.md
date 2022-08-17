@@ -1,1 +1,1 @@
-# osnove_jave
+# Domaci_osnove_jave
